@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/copy/v86](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/copy/v86)
 
-v86 emulates an x86-compatible CPU and hardware. Machine code is translated to
+v86 emulates an x86-compatible CPU and hardware with web assembly. Machine code is translated to
 WebAssembly modules at runtime in order to achieve decent performance. Here's a
 list of emulated hardware:
 
